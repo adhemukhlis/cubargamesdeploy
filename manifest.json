@@ -1,26 +1,25 @@
 {
-	"short_name" : "Cubar",
-	"name" : "Cubar",
-	"icons" : [
-		{
-			"src": "https://cubar.netlify.com/favicon.ico",
-			"sizes": "64x64 32x32 24x24 16x16"
-		},
-		{
-			"src": "https://cubar.netlify.com/logo192.png",
-			"sizes": "192x192"
-		},
-		{
-			"src": "https://cubar.netlify.com/logo512.png",
-			"sizes": "512x512"
-		}],
-	"start_url" : "https://cubar.netlify.com/",
-	"display" : "fullscreen",
-	"theme_color" : "#FFCE4D",
-	"background_color" : "#ffffff",
-	"url" : "https://cubar.netlify.com/",
-	"lang" : "",
-	"screenshots" : [],
-	"orientation" : "",
-	"generated" : ""
+  "short_name": "Cubar",
+  "name": "Cubar",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#FFCE4D",
+  "background_color": "#ffffff"
 }
